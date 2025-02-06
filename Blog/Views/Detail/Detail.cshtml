@@ -1,0 +1,25 @@
+﻿
+@{
+	ViewData["Title"] = "Detail Posts";
+}
+
+@model Blog.Models.PostModel;
+
+@section Link {
+	<link href="@Url.Content("~/layout/styles/layout.css")" rel="stylesheet" type="text/css" media="all">
+}
+
+
+<div>
+<img src="@Url.Content("~/images/"+Model.image)"/>
+<h1>@Model.Title</h1>
+<p>@Model.Content</p>
+
+
+</div>
+
+@section Script {
+    <script src="@Url.Content("~/../layout/scripts/jquery.min.js")"></script>
+    <script src="@Url.Content("~/../layout/scripts/jquery.backtotop.js")"></script>
+    <script src="@Url.Content("~/../layout/scripts/jquery.mobilemenu.js")"></script>
+}

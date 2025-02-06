@@ -1,0 +1,50 @@
+﻿@{
+	ViewData["Title"] = "Sign Up Page";
+}
+@model Blog.Models.ViewModels.SignUpViewModel;
+
+
+@section Link {
+	<link href="@Url.Content("~/layout/styles/layout.css")" rel="stylesheet" type="text/css" media="all">
+    <link href="@Url.Content("~/layout/styles/signup.css")" rel="stylesheet">
+}
+
+
+
+<div class="container">
+    <div class="form-box">
+        <h2 id="form-title">Sign Up</h2>
+        <form asp-action="SignUp" asp-controller="Customer" method="post" id="auth-form">
+            <div class="input-group">
+                <input asp-for="Hoten" type="text" id="name" placeholder="Your Name">
+                <span style="color:red;" asp-validation-for="Hoten"></span>
+            </div>
+
+            <div class="input-group">
+                <input asp-for="email" type="email" id="user" placeholder="Email">
+                <span style="color:red;" asp-validation-for="email"></span>
+            </div>
+
+
+
+            <div class="input-group">
+                <input asp-for="phone" type="number" id="phone" placeholder="Phone">
+                <span style="color:red;" asp-validation-for="phone"></span>
+            </div>
+
+
+            <div class="input-group">
+                <input asp-for="Username" type="text" id="user" placeholder="UserName">
+                <span style="color:red;" asp-validation-for="Username"></span>
+            </div>
+
+            <div class="input-group">
+                <input asp-for="password" type="password" id="password" placeholder="Password">
+                <span style="color:red;" asp-validation-for="password"></span>
+            </div>
+            <button type="submit" class="btn">Sign Up</button>
+            <p class="toggle-text">Bạn đã có tài khoản? <a asp-action="Log In" asp-controller="Customer"
+                id="toggle-register">Log In</a></p>
+        </form>
+    </div>
+</div>
