@@ -24,7 +24,7 @@ namespace Blog.Models.ViewModels
         public string Username { get; set; }
 
         [Required(ErrorMessage = "Please enter your password")]
-        [MaxLength(6,ErrorMessage ="Password has at least 6 characters")]
+        [MinLength(6,ErrorMessage ="Password has at least 6 characters")]
         public string password {  get; set; }
 
 

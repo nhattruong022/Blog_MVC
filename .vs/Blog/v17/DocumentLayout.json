@@ -1,50 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\",
+  "WorkspaceRootPath": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog\\blog\\models\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|solutionrelative:blog\\models\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog_mvc\\blog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|solutionrelative:blog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog\\blog\\views\\customer\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|solutionrelative:blog\\views\\customer\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog\\blog\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|solutionrelative:blog\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog_mvc\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|solutionrelative:blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog\\blog\\wwwroot\\layout\\styles\\signup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|solutionrelative:blog\\wwwroot\\layout\\styles\\signup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog\\blog\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|solutionrelative:blog\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog\\blog\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog_mvc\\blog\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|solutionrelative:blog\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog\\blog\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog_mvc\\blog\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|solutionrelative:blog\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog_mvc\\blog\\views\\customer\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|solutionrelative:blog\\views\\customer\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog_mvc\\blog\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|solutionrelative:blog\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog_mvc\\blog\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|solutionrelative:blog\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog\\blog\\wwwroot\\layout\\styles\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|solutionrelative:blog\\wwwroot\\layout\\styles\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog_mvc\\blog\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|solutionrelative:blog\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog\\blog\\views\\search\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|solutionrelative:blog\\views\\search\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog\\blog\\models\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|solutionrelative:blog\\models\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|c:\\users\\nhat truong\\source\\repos\\blog_mvc\\blog\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A37369E-55DF-4A61-89D8-1E600268A14F}|Blog\\Blog.csproj|solutionrelative:blog\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,10 +74,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
@@ -93,64 +81,81 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "signup.css",
-              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\signup.css",
-              "RelativeDocumentMoniker": "Blog\\wwwroot\\layout\\styles\\signup.css",
-              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\signup.css",
-              "RelativeToolTip": "Blog\\wwwroot\\layout\\styles\\signup.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-06T15:06:59.897Z",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Blog\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Blog\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T13:47:00.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Blog\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Blog\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:45:33.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Blog\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Blog\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:07:02.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SignUp.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Views\\Customer\\SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Views\\Customer\\SignUp.cshtml",
               "RelativeDocumentMoniker": "Blog\\Views\\Customer\\SignUp.cshtml",
-              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Views\\Customer\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Views\\Customer\\SignUp.cshtml",
               "RelativeToolTip": "Blog\\Views\\Customer\\SignUp.cshtml",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-06T14:51:29.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SignUpViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Models\\ViewModels\\SignUpViewModel.cs",
-              "RelativeDocumentMoniker": "Blog\\Models\\ViewModels\\SignUpViewModel.cs",
-              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Models\\ViewModels\\SignUpViewModel.cs",
-              "RelativeToolTip": "Blog\\Models\\ViewModels\\SignUpViewModel.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAywA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T14:13:31.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Program.cs",
               "RelativeDocumentMoniker": "Blog\\Program.cs",
-              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Program.cs",
+              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Program.cs",
               "RelativeToolTip": "Blog\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAkwCYAAAABAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T07:09:41.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "CustomerModel.cs",
-              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Models\\CustomerModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Models\\CustomerModel.cs",
               "RelativeDocumentMoniker": "Blog\\Models\\CustomerModel.cs",
-              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Models\\CustomerModel.cs",
+              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Models\\CustomerModel.cs",
               "RelativeToolTip": "Blog\\Models\\CustomerModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,79 +164,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PostModel.cs",
-              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Models\\PostModel.cs",
-              "RelativeDocumentMoniker": "Blog\\Models\\PostModel.cs",
-              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Models\\PostModel.cs",
-              "RelativeToolTip": "Blog\\Models\\PostModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T08:57:41.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "login.css",
-              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\login.css",
-              "RelativeDocumentMoniker": "Blog\\wwwroot\\layout\\styles\\login.css",
-              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\login.css",
-              "RelativeToolTip": "Blog\\wwwroot\\layout\\styles\\login.css",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAUwEYAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-06T08:37:06.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Controllers\\CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Blog\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "Blog\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAYwD4AAAA6AAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAA8wCMAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T08:11:30.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Views\\Customer\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Views\\Customer\\Login.cshtml",
               "RelativeDocumentMoniker": "Blog\\Views\\Customer\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Views\\Customer\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Views\\Customer\\Login.cshtml",
               "RelativeToolTip": "Blog\\Views\\Customer\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-06T08:11:08.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "SearchController.cs",
-              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Controllers\\SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Controllers\\SearchController.cs",
               "RelativeDocumentMoniker": "Blog\\Controllers\\SearchController.cs",
-              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Controllers\\SearchController.cs",
               "RelativeToolTip": "Blog\\Controllers\\SearchController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA8AAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T07:56:40.403Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Search.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Views\\Search\\Search.cshtml",
-              "RelativeDocumentMoniker": "Blog\\Views\\Search\\Search.cshtml",
-              "ToolTip": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Views\\Search\\Search.cshtml",
-              "RelativeToolTip": "Blog\\Views\\Search\\Search.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAIAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T07:43:54.049Z"
             }
           ]
         }

@@ -2,6 +2,7 @@
 @{
 	ViewData["Title"] = "Login Page";
 }
+@model Blog.Models.ViewModels.LoginViewModel
 
 @section Link {
     <link href="@Url.Content("~/layout/styles/layout.css")" rel="stylesheet" type="text/css" media="all">
@@ -12,12 +13,22 @@
     <div class="container">
         <div class="form-box">
             <h2 id="form-title">Login</h2>
-            <form id="auth-form">
+        <form asp-action="Login" asp-controller="Customer" asp-route-returnUrl="@ViewBag.returnUrl" method="post" id="auth-form">
+
+             @if(!ViewData.ModelState.IsValid&& ViewData.ModelState["loi"]!=null)
+             {
+                 <div style="color:red;">
+                     @ViewData.ModelState["loi"].Errors[0].ErrorMessage
+                 </div>
+             }
+
                 <div class="input-group">
-                    <input type="text" id="user" placeholder="UserName" required>
+                    <input asp-for="userName" type="text" id="user" placeholder="UserName" required>
+                    <span style="color:red;" asp-validation-for="userName"></span>
                 </div>
                 <div class="input-group">
-                    <input type="password" id="password" placeholder="Password" required>
+                    <input asp-for="password" type="password" id="password" placeholder="Password" required>
+                    <span style="color:red;" asp-validation-for="password"></span>
                 </div>
                 <button type="submit" class="btn">Login</button>
                 <p class="toggle-text">Chưa có tài khoản? <a href="#" id="toggle-register">Sign Up</a></p>

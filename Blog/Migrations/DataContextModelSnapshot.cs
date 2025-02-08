@@ -75,8 +75,17 @@ namespace Blog.Migrations
                     b.Property<string>("Title")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("Tyms")
+                        .HasColumnType("int");
+
                     b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("datetime2");
+
+                    b.Property<int?>("Views")
+                        .HasColumnType("int");
+
+                    b.Property<int>("customerId")
+                        .HasColumnType("int");
 
                     b.Property<string>("image")
                         .HasColumnType("nvarchar(max)");
@@ -86,7 +95,20 @@ namespace Blog.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("customerId");
+
                     b.ToTable("Posts");
+                });
+
+            modelBuilder.Entity("Blog.Models.PostModel", b =>
+                {
+                    b.HasOne("Blog.Models.CustomerModel", "customer")
+                        .WithMany()
+                        .HasForeignKey("customerId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("customer");
                 });
 #pragma warning restore 612, 618
         }

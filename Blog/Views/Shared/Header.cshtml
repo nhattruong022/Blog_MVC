@@ -13,8 +13,16 @@
             <ul class="nospace">
                 <li><a href="#"><i class="fas fa-home"></i></a></li>
                 <li><a href="#" title="Help Centre"><i class="far fa-life-ring"></i></a></li>
-                <li><a asp-action="Login" asp-controller="Customer" title="Login"><i class="fas fa-sign-in-alt"></i></a></li>
-                <li><a asp-action="SignUp" asp-controller="Customer" title="Sign Up"><i class="fas fa-edit"></i></a></li>
+              
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <a asp-action="LogOut" asp-controller="Customer"><span>LogOut</span></a>
+                }
+                else
+                {
+                    <li><a asp-action="Login" asp-controller="Customer" title="Login"><i class="fas fa-sign-in-alt"></i></a></li>
+                    <li><a asp-action="SignUp" asp-controller="Customer" title="Sign Up"><i class="fas fa-edit"></i></a></li>
+                }
                 <li id="searchform">
                     <div>
                         <form asp-action="Search" asp-controller="Search" method="get">
@@ -26,6 +34,8 @@
                         </form>
                     </div>
                 </li>
+                <form asp-action="">
+                </form>
             </ul>
         </div>
         <!-- ################################################################################################ -->
@@ -71,7 +81,7 @@
         <nav id="mainav" class="fl_right">
             <!-- ################################################################################################ -->
             <ul class="clear">
-                <li><a href="../index.html">Home</a></li>
+                <li><a asp-action="Index" asp-controller="Home">Home</a></li>
                 <li class="active">
                     <a class="drop" href="#">Pages</a>
                     <ul>

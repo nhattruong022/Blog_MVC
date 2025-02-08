@@ -22,5 +22,6 @@ namespace Blog.Controllers
             return View("Search",posts);
 		}
 
+		
 	}
 }

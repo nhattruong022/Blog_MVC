@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Blog.csproj": {}
+    "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Blog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Blog.csproj": {
+    "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Blog.csproj",
+        "projectUniqueName": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Blog.csproj",
         "projectName": "Blog",
-        "projectPath": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\Blog.csproj",
+        "projectPath": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\Blog.csproj",
         "packagesPath": "C:\\Users\\Nhat Truong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\obj\\",
+        "outputPath": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nhat Truong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,6 +64,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "X.PagedList.Mvc.Core": {
+              "target": "Package",
+              "version": "[10.5.7, )"
             }
           },
           "imports": [

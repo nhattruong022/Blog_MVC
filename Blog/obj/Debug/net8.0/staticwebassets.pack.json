@@ -1,435 +1,435 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blog.bundle.scp.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blog.bundle.scp.css",
       "PackagePath": "staticwebassets\\Blog.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\1.jpg",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\1.jpg",
       "PackagePath": "staticwebassets\\images\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\2.jpg",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\2.jpg",
       "PackagePath": "staticwebassets\\images\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\3.jpg",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\3.jpg",
       "PackagePath": "staticwebassets\\images\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\4.jpg",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\4.jpg",
       "PackagePath": "staticwebassets\\images\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\5.jpg",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\5.jpg",
       "PackagePath": "staticwebassets\\images\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\6.jpg",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\6.jpg",
       "PackagePath": "staticwebassets\\images\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\7.jpg",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\7.jpg",
       "PackagePath": "staticwebassets\\images\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\8.jpg",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\8.jpg",
       "PackagePath": "staticwebassets\\images\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\demo\\100x100.png",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\demo\\100x100.png",
       "PackagePath": "staticwebassets\\images\\demo\\100x100.png"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\demo\\348x220.png",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\demo\\348x220.png",
       "PackagePath": "staticwebassets\\images\\demo\\348x220.png"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\demo\\348x261.png",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\demo\\348x261.png",
       "PackagePath": "staticwebassets\\images\\demo\\348x261.png"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\demo\\480x300.png",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\demo\\480x300.png",
       "PackagePath": "staticwebassets\\images\\demo\\480x300.png"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\demo\\avatar.png",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\demo\\avatar.png",
       "PackagePath": "staticwebassets\\images\\demo\\avatar.png"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\demo\\backgrounds\\01.png",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\demo\\backgrounds\\01.png",
       "PackagePath": "staticwebassets\\images\\demo\\backgrounds\\01.png"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\demo\\backgrounds\\index.html",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\demo\\backgrounds\\index.html",
       "PackagePath": "staticwebassets\\images\\demo\\backgrounds\\index.html"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\demo\\gallery\\01.png",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\demo\\gallery\\01.png",
       "PackagePath": "staticwebassets\\images\\demo\\gallery\\01.png"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\demo\\gallery\\index.html",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\demo\\gallery\\index.html",
       "PackagePath": "staticwebassets\\images\\demo\\gallery\\index.html"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\demo\\imgl.gif",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\demo\\imgl.gif",
       "PackagePath": "staticwebassets\\images\\demo\\imgl.gif"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\demo\\imgr.gif",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\demo\\imgr.gif",
       "PackagePath": "staticwebassets\\images\\demo\\imgr.gif"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\images\\demo\\index.html",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\images\\demo\\index.html",
       "PackagePath": "staticwebassets\\images\\demo\\index.html"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\scripts\\index.html",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\scripts\\index.html",
       "PackagePath": "staticwebassets\\layout\\scripts\\index.html"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\scripts\\jquery.backtotop.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\scripts\\jquery.backtotop.js",
       "PackagePath": "staticwebassets\\layout\\scripts\\jquery.backtotop.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\scripts\\jquery.min.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\scripts\\jquery.min.js",
       "PackagePath": "staticwebassets\\layout\\scripts\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\scripts\\jquery.mobilemenu.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\scripts\\jquery.mobilemenu.js",
       "PackagePath": "staticwebassets\\layout\\scripts\\jquery.mobilemenu.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\css\\all.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\css\\all.css",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\css\\all.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\css\\index.html",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\css\\index.html",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\css\\index.html"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\index.html",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\index.html",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\index.html"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\index.html",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\fontawesome-free\\webfonts\\index.html",
       "PackagePath": "staticwebassets\\layout\\styles\\fontawesome-free\\webfonts\\index.html"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\framework.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\framework.css",
       "PackagePath": "staticwebassets\\layout\\styles\\framework.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\layout.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\layout.css",
       "PackagePath": "staticwebassets\\layout\\styles\\layout.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\login.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\login.css",
       "PackagePath": "staticwebassets\\layout\\styles\\login.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\layout\\styles\\signup.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\layout\\styles\\signup.css",
       "PackagePath": "staticwebassets\\layout\\styles\\signup.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Nhat Truong\\source\\repos\\Blog_MVC\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
